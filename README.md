@@ -8,6 +8,7 @@ I'm actively looking for an **Internship or Entry-Level (Fresher) role** in:
 - 🗄️ Data Engineering
 - 📊 Data Analytics
 - 💻 Software Engineering
+- 🌐Full Stack Developer or Web developer or language developer
 
 ## 🛠️ Skills
 
