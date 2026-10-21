@@ -35,7 +35,7 @@ A working appointment booking SaaS application. You can log in and explore the r
 
 > ✅ This is the **actual, functional application**, not a mockup. Feel free to sign up and try it out.
 
-### 🌸 [Flower Website (MVP Demo)](https://YOUR-PUBLIC-FLOWERWEB-URL.vercel.app)
+### 🌸 [Flower Website (MVP Demo)](https://ecommerce-platform-flowerweb.vercel.app/)
 An e-commerce style flower shop website built **only as a demo to showcase an MVP**. It illustrates the concept and UI flow, but it is not a full production application.
 - 🛒 E-commerce storefront concept
 - 🌐 Deployed on Vercel
