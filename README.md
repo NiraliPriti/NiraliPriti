@@ -31,7 +31,7 @@ A working appointment booking SaaS application. You can log in and explore the r
 - 🔐 User login and authentication
 - 🗓️ Appointment booking and management
 - 🌐 Deployed on Vercel
-- **Tech stack:** _add your stack here_
+- **Tech stack:** Javascript, React, Vite, Node.js, Express, Supabase (PostgreSQL), Vercel
 
 > ✅ This is the **actual, functional application**, not a mockup. Feel free to sign up and try it out.
 
@@ -39,7 +39,7 @@ A working appointment booking SaaS application. You can log in and explore the r
 An e-commerce style flower shop website built **only as a demo to showcase an MVP**. It illustrates the concept and UI flow, but it is not a full production application.
 - 🛒 E-commerce storefront concept
 - 🌐 Deployed on Vercel
-- **Tech stack:** _add your stack here_
+- **Tech stack:** HTML, CSS
 
 > ℹ️ Demo only. For a fully working app, see the Smart Appointment Booking project above.
 
